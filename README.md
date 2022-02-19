@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrGoar
 - 👀 I’m interested in all that matters whit programming
-- 🌱 I’m currently learning web programming
+- 🌱 I’m currently learning cloud development + IaC
 - 📫 How to reach me "mendozaarturo1221@gmail.com"
 
 <!---
